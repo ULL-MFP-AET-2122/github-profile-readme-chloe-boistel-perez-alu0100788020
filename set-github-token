@@ -1,0 +1,1 @@
+eval $(gp env -e GITHUB_TOKEN=$1)
