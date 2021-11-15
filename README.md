@@ -1,3 +1,10 @@
+Link al README del perfil: https://github.com/ChloeBoistel/ChloeBoistel/blob/main/README.md
+Link a mi perfil: https://github.com/ChloeBoistel
+Link al repo de la tarea en la organización: 
+
+
+
+
 # Escriba aquí su Informe
 
 Escriba aquí el informe de su práctica.
